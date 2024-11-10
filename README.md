@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Nama : Febry Arsi Kurniawan
 NIM  : 220010140
 # myapp
@@ -16,3 +17,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# CA221
+>>>>>>> d7111d8ead722eeab42f92596158758737b12114
